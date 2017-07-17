@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/carrousel.unity
+  isLoaded: 1
+  isActive: 1
